@@ -1,4 +1,4 @@
-# Project-0
+# Protocol-0
 A Solution to the QR hazards of post 2025 
 
 Protocol 0: The Last Protocol
