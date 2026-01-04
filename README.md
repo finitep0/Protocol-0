@@ -484,16 +484,16 @@ Protocol 0 imposes absolute requirements for asset migration and application log
 
 ---
 
-## 🔥 Burn Before Anchor
+##  Burn Before Anchor
 
 **Any asset migrated into Protocol 0 must first be permanently destroyed in its original system.**
 
 This is non-negotiable:
 
-- ❌ No dual-presence  
-- ❌ No reversible bridges  
-- ❌ No wrapped tokens  
-- ❌ No trust in legacy chains  
+-  No dual-presence  
+-  No reversible bridges  
+-  No wrapped tokens  
+-  No trust in legacy chains  
 
 **Proof-of-burn is mandatory.** The new quantum-resilient key is not a duplicate — it is a cryptographic continuation. Without destruction, there is no migration.
 
@@ -506,7 +506,7 @@ This guarantees:
 
 ---
 
-## ✅ Verifiability and Finality
+##  Verifiability and Finality
 
 Protocol 0 defines **finality** as the **inability to mutate**, not just economic settlement.
 
