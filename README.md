@@ -180,11 +180,11 @@ No Governance: No DAO, no voting, no central authority.
 
 
 
-📘 whitepaper/: The core philosophy, mission, and implementation details of Protocol 0
-🧱 appendices/: Technical and philosophical extensions — from entropy warnings to legal immunity
-🔐 onboarding/: Criteria for integration of external projects and migration logic
-📄 proposals/: Onboarding proposals and related governance documents (optional)
-📂 core/: Core whitepaper and static logic overview (if applicable)
+ whitepaper/: The core philosophy, mission, and implementation details of Protocol 0
+ appendices/: Technical and philosophical extensions — from entropy warnings to legal immunity
+ onboarding/: Criteria for integration of external projects and migration logic
+ proposals/: Onboarding proposals and related governance documents (optional)
+ core/: Core whitepaper and static logic overview (if applicable)
 
 
 
